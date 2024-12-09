@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/UCanAccess-3.0.7-bin/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/UCanAccess-3.0.7-bin/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/UCanAccess-3.0.7-bin/lib/hsqldb.jar"/>
+	<classpathentry kind="lib" path="lib/UCanAccess-3.0.7-bin/lib/jackcess-2.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/UCanAccess-3.0.7-bin/ucanaccess-3.0.7.jar"/>
+	<classpathentry kind="lib" path="lib/UCanAccess-5.0.1.bin/lib/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="lib/UCanAccess-5.0.1.bin/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/UCanAccess-5.0.1.bin/lib/hsqldb-2.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/UCanAccess-5.0.1.bin/lib/jackcess-3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/UCanAccess-5.0.1.bin/ucanaccess-5.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/json-simple-2.3.0.jar"/>
+	<classpathentry kind="lib" path="openjfx-17.0.13_windows-x64_bin-sdk/javafx-sdk-17.0.13/lib2/javafx.base.jar"/>
+	<classpathentry kind="lib" path="openjfx-17.0.13_windows-x64_bin-sdk/javafx-sdk-17.0.13/lib2/javafx.controls.jar"/>
+	<classpathentry kind="lib" path="openjfx-17.0.13_windows-x64_bin-sdk/javafx-sdk-17.0.13/lib2/javafx.fxml.jar"/>
+	<classpathentry kind="lib" path="openjfx-17.0.13_windows-x64_bin-sdk/javafx-sdk-17.0.13/lib2/javafx.graphics.jar"/>
+	<classpathentry kind="lib" path="openjfx-17.0.13_windows-x64_bin-sdk/javafx-sdk-17.0.13/lib2/javafx.media.jar"/>
+	<classpathentry kind="lib" path="openjfx-17.0.13_windows-x64_bin-sdk/javafx-sdk-17.0.13/lib2/javafx.properties"/>
+	<classpathentry kind="lib" path="openjfx-17.0.13_windows-x64_bin-sdk/javafx-sdk-17.0.13/lib2/javafx.swing.jar"/>
+	<classpathentry kind="lib" path="openjfx-17.0.13_windows-x64_bin-sdk/javafx-sdk-17.0.13/lib2/javafx.web.jar"/>
+	<classpathentry kind="lib" path="openjfx-17.0.13_windows-x64_bin-sdk/javafx-sdk-17.0.13/lib2/javafx-swt.jar"/>
+	<classpathentry kind="lib" path="openjfx-17.0.13_windows-x64_bin-sdk/javafx-sdk-17.0.13/src.zip"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
